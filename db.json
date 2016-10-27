@@ -1,0 +1,72 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Album 1",
+      "cover": "https://placekitten.com/300/300"
+    },
+    {
+      "id": 2,
+      "name": "Album 2",
+      "cover": "https://placekitten.com/300/300"
+    },
+    {
+      "id": 3,
+      "name": "Album 2",
+      "cover": "https://placekitten.com/300/300"
+    },
+    {
+      "id": 4,
+      "name": "Album 2",
+      "cover": "https://placekitten.com/300/300"
+    },
+    {
+      "id": 5,
+      "name": "Album 2",
+      "cover": "https://placekitten.com/300/300"
+    },
+    {
+      "id": 6,
+      "name": "Album 2",
+      "cover": "https://placekitten.com/300/300"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "name": "Photo 1",
+      "photo": "https://placekitten.com/300/300",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "name": "Photo 2",
+      "photo": "https://placekitten.com/300/300",
+      "albumId": 2
+    },
+    {
+      "id": 3,
+      "name": "Photo 3",
+      "photo": "https://placekitten.com/300/300",
+      "albumId": 3
+    },
+    {
+      "id": 4,
+      "name": "Photo 4",
+      "photo": "https://placekitten.com/300/300",
+      "albumId": 4
+    },
+    {
+      "id": 5,
+      "name": "Photo 5",
+      "photo": "https://placekitten.com/300/300",
+      "albumId": 5
+    },
+    {
+      "id": 6,
+      "name": "Photo 6",
+      "photo": "https://placekitten.com/300/300",
+      "albumId": 6
+    }
+  ]
+}
